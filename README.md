@@ -1,3 +1,5 @@
+This code is associated with the paper from Trakoshis et al., "Intrinsic excitation-inhibition imbalance affects medial prefrontal cortex differently in autistic men versus women". eLife, 2020. http://doi.org/10.7554/eLife.55684
+
 # Code and data for EI Hurst paper
 
 This repository has all the code and tidy data for the analyses in Trakoshis, Martínez-Cañada et al., Intrinsic excitation-inhibition imbalance affects medial prefrontal cortex differently in autistic men versus women. https://doi.org/10.1101/2020.01.16.909531
